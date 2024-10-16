@@ -3,7 +3,7 @@
 # Submission Date 10/15/2014
 # Lab 06
 # Lab Section: 11 
-# Sources, people worked with, help given to: 
+# Sources, people worked with, help given to: Help from TA's, and help from Google. 
 # your
 # comments
 # here
